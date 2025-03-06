@@ -17,14 +17,14 @@ importers:
       '@mercuryworkshop/epoxy-transport':
         specifier: ^2.1.25
         version: 2.1.25
-      '@titaniumnetwork-dev/ultraviolet':
+      '@ItsViewDev/Venomous':
         specifier: ^3.2.10
         version: 3.2.10
       fastify:
         specifier: ^5.0.0
         version: 5.0.0
       ultraviolet-static:
-        specifier: github:titaniumnetwork-dev/Ultraviolet-Static
+        specifier: github:ItsViewDev/Venomous-Static
         version: https://codeload.github.com/titaniumnetwork-dev/Ultraviolet-Static/tar.gz/d9a30997be87d0f25f36c85e2fc851528d8f8e23
       wisp-server-node:
         specifier: ^1.1.7
