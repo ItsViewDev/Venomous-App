@@ -1,7 +1,7 @@
 {
 	"name": "Venomous App",
 	"description": "Venomous running using Node.js Ultraviolet instance",
-	"repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
+	"repository": "https://github.com/ItsViewDev/Venomous-App",
 	"logo": "https://raw.githubusercontent.com/ItsViewDev/Venomous-Static/main/public/vv.png",
 	"keywords": ["venom", "venomous"]
 }
